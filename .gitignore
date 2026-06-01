@@ -32,7 +32,7 @@ Thumbs.db
 # =========================
 # Generated Data
 # =========================
-data/
+# data/
 
 # OR use these if you want to keep the folder structure
 # data/uploads/*

@@ -39,12 +39,11 @@ Thumbs.db
 # data/figures/*
 # data/reports/*
 
-
 # =========================
 # Reports
 # =========================
-# *.docx
-# *.pdf
+*.docx
+*.pdf
 
 # =========================
 # Logs
